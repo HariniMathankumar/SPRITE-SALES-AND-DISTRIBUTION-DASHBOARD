@@ -40,6 +40,15 @@ The dashboard provides insights into key metrics such as total sales, units sold
 
 ## 📸 Dashboard Preview
 
+<p>Click below to view the full-size dashboard 👇</p>
+
+<a href="https://github.com/HariniMathankumar/SPRITE-SALES-AND-DISTRIBUTION-DASHBOARD/blob/main/Screenshot%202025-11-12%20124215.png" target="_blank">
+  <img src="https://github.com/HariniMathankumar/SPRITE-SALES-AND-DISTRIBUTION-DASHBOARD/blob/main/Screenshot%202025-11-12%20124215.png" 
+       alt="Sprite Sales Dashboard" 
+       width="800" 
+       style="border-radius: 10px; box-shadow: 0 0 10px #ccc;">
+</a>
+
 ---
 
 ## 💡 Insights
